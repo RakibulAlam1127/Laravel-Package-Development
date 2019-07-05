@@ -1,0 +1,15 @@
+{
+    "name": "rakib/press",
+    "description": "An elegant markdown-powered blog for the Laravel framwork\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[Camework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rakibul",
+            "email": "limonrakib05690@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^3.8"
+    }
+}
